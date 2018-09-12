@@ -1,5 +1,5 @@
 ﻿CACHE MANIFEST
-#1536764137
+#1536765190
 data.js
 c2runtime.js
 jquery-2.1.1.min.js
@@ -43,6 +43,7 @@ images/sprite20-sheet0.png
 images/sprite21-sheet0.png
 images/sprite22-sheet0.png
 images/sprite24-sheet0.png
+images/sprite25-sheet0.png
 media/nyan%20cat%20[original].ogg
 media/hamtaro%20japanese%20theme%20song.ogg
 media/smb2_jump.ogg%20(online-audio-converter.com).ogg

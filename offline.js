@@ -1,5 +1,5 @@
 ﻿{
-	"version": 1536764137,
+	"version": 1536765190,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
@@ -44,6 +44,7 @@
 		"images/sprite21-sheet0.png",
 		"images/sprite22-sheet0.png",
 		"images/sprite24-sheet0.png",
+		"images/sprite25-sheet0.png",
 		"media/nyan cat [original].ogg",
 		"media/hamtaro japanese theme song.ogg",
 		"media/smb2_jump.ogg (online-audio-converter.com).ogg",
